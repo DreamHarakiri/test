@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab082e6d.css",
-    "main.js": "/static/js/main.c455a311.js",
+    "main.css": "/static/css/main.82554584.css",
+    "main.js": "/static/js/main.1a3d261a.js",
+    "static/css/443.48f39044.chunk.css": "/static/css/443.48f39044.chunk.css",
+    "static/js/443.158438f1.chunk.js": "/static/js/443.158438f1.chunk.js",
+    "static/css/136.8d2fce05.chunk.css": "/static/css/136.8d2fce05.chunk.css",
+    "static/js/136.5a4216a6.chunk.js": "/static/js/136.5a4216a6.chunk.js",
+    "static/css/512.e843a6ad.chunk.css": "/static/css/512.e843a6ad.chunk.css",
+    "static/js/512.1b7a06a0.chunk.js": "/static/js/512.1b7a06a0.chunk.js",
     "static/media/bgheader.png": "/static/media/bgheader.e71f45fbc8bc932a66d5.png",
-    "static/media/image_2024-05-28_16-22-05.png": "/static/media/image_2024-05-28_16-22-05.b0899aa89ed5c2a75348.png",
-    "static/media/mensmini.png": "/static/media/mensmini.b42aaa20f4f0612d3c3f.png",
-    "static/media/11 1.png": "/static/media/11 1.52628e8d2a588b0d3baa.png",
-    "static/media/shop.png": "/static/media/shop.6f4b297e2939cf512d69.png",
-    "static/media/432342342 1.png": "/static/media/432342342 1.67972a02fd4d5fcf5ccb.png",
+    "static/media/image_2024-05-28_16-22-05.png": "/static/media/image_2024-05-28_16-22-05.cc60f2c9d3383138e9a2.png",
+    "static/media/11 1.png": "/static/media/11 1.c72c5f58b930f5d37cb6.png",
+    "static/media/png": "/static/media/401cfb2e26b2108ca6ee75238f23a8e1.34421db1136206009bf8.png",
+    "static/media/stage.png": "/static/media/stage.d4bda9739e90e3e707dc.png",
+    "static/media/success.png": "/static/media/success.51cf5ba17a9172c14078.png",
+    "static/media/failed.png": "/static/media/failed.7200fc9d0c57f401b9d6.png",
     "static/media/bely_logo.png": "/static/media/bely_logo.60849bccd027a2a919ca.png",
+    "static/media/123 1.png": "/static/media/123 1.ea8265ab6c8b89b483c1.png",
     "static/media/functional.e9016d5e.svg": "/static/media/functional.e9016d5e.f77811c9692e3ddcdaa4afe9b6e642bf.svg",
     "static/media/economy.ad5e136c.svg": "/static/media/economy.ad5e136c.49f68c16c6404f4a330b2ec3dae3d0f0.svg",
     "static/media/roleplay.ff97dda3.svg": "/static/media/roleplay.ff97dda3.151906fe08bea4b462fd410251610bd4.svg",
@@ -16,11 +24,17 @@
     "static/media/community.1119b3fe.svg": "/static/media/community.1119b3fe.4bc19d00c60fb6396d2d5c07316a2650.svg",
     "static/media/burgerSVG.svg": "/static/media/burgerSVG.b3a537662d9625492692cd56683aac2b.svg",
     "index.html": "/index.html",
-    "main.ab082e6d.css.map": "/static/css/main.ab082e6d.css.map",
-    "main.c455a311.js.map": "/static/js/main.c455a311.js.map"
+    "main.82554584.css.map": "/static/css/main.82554584.css.map",
+    "main.1a3d261a.js.map": "/static/js/main.1a3d261a.js.map",
+    "443.48f39044.chunk.css.map": "/static/css/443.48f39044.chunk.css.map",
+    "443.158438f1.chunk.js.map": "/static/js/443.158438f1.chunk.js.map",
+    "136.8d2fce05.chunk.css.map": "/static/css/136.8d2fce05.chunk.css.map",
+    "136.5a4216a6.chunk.js.map": "/static/js/136.5a4216a6.chunk.js.map",
+    "512.e843a6ad.chunk.css.map": "/static/css/512.e843a6ad.chunk.css.map",
+    "512.1b7a06a0.chunk.js.map": "/static/js/512.1b7a06a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab082e6d.css",
-    "static/js/main.c455a311.js"
+    "static/css/main.82554584.css",
+    "static/js/main.1a3d261a.js"
   ]
 }
